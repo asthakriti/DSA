@@ -6,7 +6,10 @@ public:
             vector<vector<int>>& original){
 
                 int n = original.size();
-                int m = original[0].size();                
+                int m = original[0].size();
+
+                ans[row][col] = color;
+                vis[row][col] = 1;                
 
                 //Find the neighbour
                 int dr[] = {-1, 1, 0, 0};
@@ -44,7 +47,6 @@ public:
        }
 
        else{
-        ans[sr][sc] = color;
         dfs(sr, sc, st_color, color, vis, ans, image);
        }
 
