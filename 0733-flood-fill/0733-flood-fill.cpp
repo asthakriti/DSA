@@ -24,7 +24,7 @@ public:
                     if(nr >= 0 && nr < n && nc >= 0 && nc < m){
                         if(!vis[nr][nc] && original[nr][nc] == st_color){
                             ans[nr][nc] = color;
-                            vis[nr][nc] = 1;
+                            // vis[nr][nc] = 1;
                             dfs(nr, nc, st_color, color, vis, ans, original);
                         }
                     }
