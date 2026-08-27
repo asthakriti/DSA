@@ -2,56 +2,74 @@ class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
 
-        int n = grid.size();
+         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> vis(n, vector<int>(m,0));
+        queue<pair<int, int>> q;
 
-        queue<pair<pair<int,int>,int>> q;
+        int fresh = 0;
 
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == 2){
-                    q.push({{i,j},0});
-                    vis[i][j] = 2;
+        // 1. Put all rotten oranges into queue
+        //    and count fresh oranges
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < m; j++) {
+
+                if (grid[i][j] == 2) {
+                    q.push({i, j});
+                }
+
+                if (grid[i][j] == 1) {
+                    fresh++;
                 }
             }
         }
 
-        int maxi = 0;
+        int minutes = 0;
 
-        while(!q.empty()){
+        int dr[] = {-1, 1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
 
-            int row = q.front().first.first;
-            int col = q.front().first.second;
-            int time = q.front().second;
-            q.pop();
-            
-            maxi = max(maxi,time);
-            
-            int nrow[] = {-1, 1, 0, 0};
-            int ncol[] = {0, 0, 1, -1};
-            
-            for(int i = 0; i < 4; i++){
-                int delrow = row + nrow[i];
-                int delcol = col + ncol[i];
+        // 2. Multi-source BFS
+        while (!q.empty() && fresh > 0) {
 
-                if(delrow >= 0 && delcol >= 0 && delrow < n && delcol < m
-                && grid[delrow][delcol] == 1 && vis[delrow][delcol] != 2){
-                    q.push({{delrow,delcol}, time+1});
-                    vis[delrow][delcol] = 2;
+            int size = q.size();
+
+            // Process oranges that were rotten
+            // at the START of this minute
+            for (int i = 0; i < size; i++) {
+
+                auto [row, col] = q.front();
+                q.pop();
+
+                for (int j = 0; j < 4; j++) {
+
+                    int nr = row + dr[j];
+                    int nc = col + dc[j];
+
+                    if (nr >= 0 && nr < n &&
+                        nc >= 0 && nc < m &&
+                        grid[nr][nc] == 1) {
+
+                        // Fresh orange becomes rotten
+                        grid[nr][nc] = 2;
+
+                        fresh--;
+
+                        q.push({nr, nc});
+                    }
                 }
             }
+
+            // One BFS level = one minute
+            minutes++;
         }
 
-        for(int i = 0 ;i < n; i++){
-            for(int j = 0; j < m; j++){
-                if(grid[i][j] == 1 && vis[i][j] != 2){
-                    return -1;
-                }
-            }
+        // 3. If fresh oranges are still left,
+        //    they can never become rotten
+        if (fresh > 0) {
+            return -1;
         }
 
-        return maxi;
+        return minutes;
     }
 };
