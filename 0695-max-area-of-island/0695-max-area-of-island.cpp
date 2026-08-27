@@ -46,6 +46,38 @@ public:
 
     }
 
+    int dfs(int row, int col, vector<vector<int>>& vis,
+            vector<vector<int>>& grid){
+
+                int n = grid.size();
+                int m = grid[0].size();
+
+                vis[row][col] = 1;
+
+                
+
+                int cnt = 1;
+
+                int dr[] = {-1, 1, 0, 0};
+                int dc[] = {0, 0, -1, 1};
+
+                for(int i = 0; i < 4; i++){
+                    int nr = row + dr[i];
+                    int nc = col + dc[i];
+
+                    if(nr < n && nc < m && nr >= 0 && nc >= 0
+                        && !vis[nr][nc] && grid[nr][nc] == 1){
+                            cnt += dfs(nr, nc, vis, grid);
+                        }
+                    }
+                return cnt;
+
+    }
+
+        
+        
+    
+
     int maxAreaOfIsland(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
@@ -58,7 +90,7 @@ public:
             for(int col = 0; col < m; col++){
                 if(grid[row][col] == 1 && !vis[row][col]){
                     
-                int len = bfs(row, col, vis, grid);
+                int len = dfs(row, col, vis, grid);
 
                 max_len = max(len, max_len);
                 }
