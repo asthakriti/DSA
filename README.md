@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/asthakriti/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/asthakriti/DSA/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/asthakriti/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/asthakriti/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/asthakriti/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/asthakriti/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/asthakriti/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/asthakriti/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/asthakriti/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/asthakriti/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/asthakriti/DSA/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/asthakriti/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Coloring
 |  |
 | ------- |
