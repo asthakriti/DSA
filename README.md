@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asthakriti/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/asthakriti/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/asthakriti/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/asthakriti/DSA/tree/master/0547-number-of-provinces) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asthakriti/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/asthakriti/DSA/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/asthakriti/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/asthakriti/DSA/tree/master/0547-number-of-provinces) |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asthakriti/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asthakriti/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/asthakriti/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
