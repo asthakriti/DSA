@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asthakriti/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/asthakriti/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/asthakriti/DSA/tree/master/0200-number-of-islands) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asthakriti/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/asthakriti/DSA/tree/master/0162-find-peak-element) |
 ## Divide and Conquer
 |  |
