@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asthakriti/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/asthakriti/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/asthakriti/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/asthakriti/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/asthakriti/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/asthakriti/DSA/tree/master/0283-move-zeroes) |
