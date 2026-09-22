@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/asthakriti/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/asthakriti/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthakriti/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/asthakriti/DSA/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/asthakriti/DSA/tree/master/0200-number-of-islands) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/asthakriti/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/asthakriti/DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/asthakriti/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
