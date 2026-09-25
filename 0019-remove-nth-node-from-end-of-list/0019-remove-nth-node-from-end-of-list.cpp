@@ -30,7 +30,7 @@ public:
         fast=fast->next;
         slow=slow->next;
       }
-    if(slow->next != NULL){slow->next=slow->next->next;}
+    slow->next=slow->next->next;
       
 
        return dummy->next;
