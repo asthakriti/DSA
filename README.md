@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asthakriti/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/asthakriti/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/asthakriti/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/asthakriti/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asthakriti/DSA/tree/master/0020-valid-parentheses) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/asthakriti/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asthakriti/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/asthakriti/DSA/tree/master/0125-valid-palindrome) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/asthakriti/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/asthakriti/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/asthakriti/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthakriti/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -273,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/asthakriti/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/asthakriti/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/asthakriti/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
