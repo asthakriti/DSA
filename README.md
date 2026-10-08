@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/asthakriti/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/asthakriti/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthakriti/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthakriti/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/asthakriti/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/asthakriti/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/asthakriti/DSA/tree/master/0733-flood-fill) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asthakriti/DSA/tree/master/0005-longest-palindromic-substring) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
