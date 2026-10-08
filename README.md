@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/asthakriti/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asthakriti/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/asthakriti/DSA/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/asthakriti/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/asthakriti/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/asthakriti/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/asthakriti/DSA/tree/master/0101-symmetric-tree) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/asthakriti/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/asthakriti/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthakriti/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthakriti/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/asthakriti/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/asthakriti/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/asthakriti/DSA/tree/master/0733-flood-fill) |
@@ -289,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
