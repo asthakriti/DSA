@@ -14,19 +14,18 @@ public:
 
 
         for(int i=0;i<minlength;i++){
-            for(int j=1;j<n;j++){
-                if(strs[0][i] != strs[j][i]){
-                    return ans;
-                    
-                }
+           for(int j=0;j<n;j++){
+            if(j+1<n && strs[j][i]!=strs[j+1][i]){return ans;}
+           }
 
                 
+        ans +=strs[0][i];
 
+            }
+            return ans;
+        
 
-            }ans +=strs[0][i];
-        }
-
-        return ans;
+        
          
     }
 };
