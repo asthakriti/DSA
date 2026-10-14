@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asthakriti/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/asthakriti/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/asthakriti/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/asthakriti/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asthakriti/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/asthakriti/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/asthakriti/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asthakriti/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
@@ -313,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/asthakriti/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
