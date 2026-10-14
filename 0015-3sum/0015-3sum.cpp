@@ -7,6 +7,7 @@ public:
       
       for(int i=0;i<nums.size();i++){
         unordered_set<int> seen;
+        if (nums[i] > 0) break;
         if (i > 0 && nums[i] == nums[i-1]) continue;
         for(int j=i+1;j<nums.size();j++){
             int b=-nums[i]-nums[j];
