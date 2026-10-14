@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/asthakriti/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/asthakriti/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/asthakriti/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthakriti/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/asthakriti/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/asthakriti/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/asthakriti/DSA/tree/master/0695-max-area-of-island) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/asthakriti/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/asthakriti/DSA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/asthakriti/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/asthakriti/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/asthakriti/DSA/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/asthakriti/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/asthakriti/DSA/tree/master/0160-intersection-of-two-linked-lists) |
