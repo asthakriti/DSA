@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/asthakriti/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/asthakriti/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/asthakriti/DSA/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/asthakriti/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/asthakriti/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/asthakriti/DSA/tree/master/0054-spiral-matrix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/asthakriti/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/asthakriti/DSA/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/asthakriti/DSA/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/asthakriti/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
