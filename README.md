@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/asthakriti/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/asthakriti/DSA/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/asthakriti/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/asthakriti/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/asthakriti/DSA/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/asthakriti/DSA/tree/master/0994-rotting-oranges) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/asthakriti/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/asthakriti/DSA/tree/master/0162-find-peak-element) |
+| [0704-binary-search](https://github.com/asthakriti/DSA/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
