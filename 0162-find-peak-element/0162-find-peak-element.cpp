@@ -14,7 +14,7 @@ public:
                 return mid;
             }
 
-            if(left < nums[mid] && right>nums[mid]){
+            if(right>nums[mid]){
                 //strictly increasing
                 low=mid+1;
             }
