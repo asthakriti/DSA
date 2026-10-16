@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/asthakriti/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/asthakriti/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/asthakriti/DSA/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/asthakriti/DSA/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/asthakriti/DSA/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/asthakriti/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Matrix
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/asthakriti/DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/asthakriti/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/asthakriti/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/asthakriti/DSA/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
