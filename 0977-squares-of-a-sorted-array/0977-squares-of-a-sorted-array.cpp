@@ -7,14 +7,13 @@ public:
         int cnt=nums.size()-1;
 
         while(cnt>=0){
-            if(abs(nums[left])>abs(nums[right])){
-                res[cnt]=nums[left]*nums[left];cnt--;
-                left++;
+            if (abs(nums[left]) > abs(nums[right])) {
+                res[cnt] = nums[left++];
+            } else {
+                res[cnt] = nums[right--];
             }
-            else{
-                res[cnt]=nums[right]*nums[right];cnt--;
-                right--;
-            }
+            res[cnt] *= res[cnt];
+            cnt --;
         }
         return res;
     }
