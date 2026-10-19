@@ -5,12 +5,14 @@ public:
         int left=0;
         int right=nums.size()-1;
         while(left<right){
-            while(right>left && nums[left]%2!=0){
-                //odd
-                swap(nums[left],nums[right]);
+            if(nums[left]%2==0){left++;}
+            else if(nums[right]%2!=0){
                 right--;
             }
-            left++;
+            else{
+                swap(nums[left],nums[right]);
+                left++;right--;
+            }
         }
         return nums;
        
