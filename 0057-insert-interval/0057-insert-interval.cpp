@@ -1,29 +1,27 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        int new_start=newInterval[0];
-        int new_end=newInterval[1];
-
+        
         int i=0;
         int n=intervals.size();
 
         vector<vector<int>> ans;
 
         //phase 1: when element are not overlapping 
-        while(i<n && new_start>intervals[i][1]){
+        while(i<n && newInterval[0]>intervals[i][1]){
             //old interval < new interval
             ans.push_back(intervals[i]);
             i++;
         }
 
         //phase 2: when overlaping interval is found
-        while(i<n && new_end>=intervals[i][0]){
-            new_start=min(new_start,intervals[i][0]);
-            new_end=max(new_end,intervals[i][1]);
+        while(i<n && newInterval[1]>=intervals[i][0]){
+            newInterval[0]=min(newInterval[0],intervals[i][0]);
+            newInterval[1]=max(newInterval[1],intervals[i][1]);
             i++;
         }
 
-        ans.push_back({new_start,new_end});
+        ans.push_back({newInterval[0],newInterval[1]});
 
         //phase 3: if the remaining element is left even after the overlapping
         while(i<n){
