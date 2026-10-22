@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/asthakriti/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/asthakriti/DSA/tree/master/0647-palindromic-substrings) |
 ## Stack
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/asthakriti/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/asthakriti/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/asthakriti/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/asthakriti/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/asthakriti/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/asthakriti/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/asthakriti/DSA/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
@@ -278,12 +282,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/asthakriti/DSA/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bracket Sequences
 |  |
 | ------- |
