@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/asthakriti/DSA/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/asthakriti/DSA/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/asthakriti/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/asthakriti/DSA/tree/master/0647-palindromic-substrings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthakriti/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/asthakriti/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/asthakriti/DSA/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/asthakriti/DSA/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/asthakriti/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/asthakriti/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/asthakriti/DSA/tree/master/0217-contains-duplicate) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/asthakriti/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/asthakriti/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/asthakriti/DSA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/asthakriti/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/asthakriti/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/asthakriti/DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/asthakriti/DSA/tree/master/0179-largest-number) |
 ## Interactive
 |  |
 | ------- |
