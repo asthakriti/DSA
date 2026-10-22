@@ -22,12 +22,13 @@ public:
             if(cnt>=h){
                 ans=h;
                 low=mid+1;
-                cnt=0;
+                
             }
             else{
                 high=mid-1;
-                cnt=0;
+                
             }
+            cnt=0;
         }
 
         return ans;
