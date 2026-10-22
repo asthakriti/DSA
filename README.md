@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/asthakriti/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/asthakriti/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/asthakriti/DSA/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/asthakriti/DSA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/asthakriti/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/asthakriti/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/asthakriti/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/asthakriti/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/asthakriti/DSA/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0905-sort-array-by-parity](https://github.com/asthakriti/DSA/tree/master/0905-sort-array-by-parity) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/asthakriti/DSA/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/asthakriti/DSA/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
