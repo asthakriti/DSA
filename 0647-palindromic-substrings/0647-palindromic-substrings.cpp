@@ -2,18 +2,19 @@ class Solution {
 public:
 int count=0;
 
-void expand(string s, int left, int right){
-    while(left>=0 && right<s.size() && s[left]==s[right]){
-        count++;
-        left--;right++;
+    void expand(int left, int right, string s){
+        while(left>=0 && right<s.size() && s[left]==s[right]){
+            count++;
+            left--;right++;
+        }
     }
-}
+
+
     int countSubstrings(string s) {
         for(int i=0;i<s.size();i++){
-            expand(s,i,i);
-            expand(s,i,i+1);
+            expand(i,i,s);
+            expand(i,i+1,s);
         }
-
         return count;
     }
 };
