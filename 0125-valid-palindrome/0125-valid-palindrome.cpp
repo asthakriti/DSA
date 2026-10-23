@@ -1,55 +1,26 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        /*Using Two pointer approch.
-        //n/2 cant used because there is also ohter character type.*/
+      
 
-        // int i=0;int j=s.length()-1;
-        // while(i<j){
-        //     while(i<j && !isalnum(s[i])){
-        //         i++;
-        //     }
-        //     //Checking whether the current i is char or not from backside
-        //     while(i<j && !isalnum(s[j])){
-        //         j--;
-        //     }
-        //     if(tolower(s[i]) != tolower(s[j])){
-        //         return false;
-        //     }
-        //     i++;
-        //     j--;
-        // }
-        // return true;
+       string str="";
 
-        string res="";
-
-        // for(char c:s){
-        //     if(isalnum((unsigned char)c)){
-        //         res+=tolower((unsigned char)c);
-        //     }
-        // }
-
-        
-    for (char c : s) {
-        if (isalnum((unsigned char)c)) { // ✅ Correct cast
-            res += tolower((unsigned char)c); // ✅ Same correct cast here
+       for(char c: s){
+        if(isalnum(c)){
+            str += tolower(c);
         }
-    }
+       }
 
-        //cout<<"string"<<res<<endl;
+       int left=0;
+       int right=str.size()-1;
 
-        int j=res.length()-1;
-        int i=0;
+       while(left<=right){
+        if(str[left]!=str[right]){
+            return false;
 
-        while(i<=j){
-            if(res[i]!=res[j]){
-                return false;
-            }
-
-            i++;
-            j--;
         }
-
-        return true;
+        left++;right--;
+       }
+       return true;
     }
 };
