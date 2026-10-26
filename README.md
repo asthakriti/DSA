@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/asthakriti/DSA/tree/master/0647-palindromic-substrings) |
+| [0981-time-based-key-value-store](https://github.com/asthakriti/DSA/tree/master/0981-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/asthakriti/DSA/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/asthakriti/DSA/tree/master/0981-time-based-key-value-store) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/asthakriti/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0981-time-based-key-value-store](https://github.com/asthakriti/DSA/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/asthakriti/DSA/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/asthakriti/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/asthakriti/DSA/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/asthakriti/DSA/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
