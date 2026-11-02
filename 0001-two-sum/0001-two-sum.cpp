@@ -9,7 +9,7 @@ public:
 
             int req=target-nums[i];
       
-            if(mp.find(target-nums[i]) != mp.end()){
+            if(mp.find(req) != mp.end()){
                 ans.push_back(mp[req]);
                 ans.push_back(i);
                 return ans;
