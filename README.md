@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/asthakriti/DSA/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/asthakriti/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0402-remove-k-digits](https://github.com/asthakriti/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0647-palindromic-substrings](https://github.com/asthakriti/DSA/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/asthakriti/DSA/tree/master/0981-time-based-key-value-store) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/asthakriti/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asthakriti/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/asthakriti/DSA/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/asthakriti/DSA/tree/master/0402-remove-k-digits) |
 ## Design
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/asthakriti/DSA/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/asthakriti/DSA/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/asthakriti/DSA/tree/master/0402-remove-k-digits) |
 ## Interactive
 |  |
 | ------- |
@@ -398,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/asthakriti/DSA/tree/master/0075-sort-colors) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/asthakriti/DSA/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
