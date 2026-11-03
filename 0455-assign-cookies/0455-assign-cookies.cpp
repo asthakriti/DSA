@@ -14,7 +14,6 @@ public:
         while(i<g.size() && j<s.size()){
             while(j<s.size()&&g[i]>s[j]){
                 j++;
-                cout<<"poiouy"<<j<<endl;
             }
             if(j<s.size()&&s[j]>=g[i]){
                 cnt++;
