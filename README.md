@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/asthakriti/DSA/tree/master/0733-flood-fill) |
 | [0867-transpose-matrix](https://github.com/asthakriti/DSA/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/asthakriti/DSA/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/asthakriti/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/asthakriti/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/asthakriti/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/asthakriti/DSA/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/asthakriti/DSA/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/asthakriti/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/asthakriti/DSA/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/asthakriti/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/asthakriti/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/asthakriti/DSA/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/asthakriti/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/asthakriti/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/asthakriti/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/asthakriti/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/asthakriti/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/asthakriti/DSA/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
 ## Interactive
 |  |
 | ------- |
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/asthakriti/DSA/tree/master/0402-remove-k-digits) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
