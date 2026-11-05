@@ -1,14 +1,22 @@
 class Solution {
 public:
-    int climbStairs(int n) {
-        if (n <= 2) return n;
-    
-    int first = 1, second = 2;
-    for (int i = 3; i <= n; i++) {
-        int temp = second;
-        second = first + second;
-        first = temp;
+    int fun(int stairNo , vector<int>& dp){
+        if(stairNo<=1){
+            return 1;
+        }
+
+        if(dp[stairNo]!=0){
+            return dp[stairNo];
+        }
+
+        dp[stairNo]=fun(stairNo-1,dp)+fun(stairNo-2,dp);
+
+        return dp[stairNo];
     }
-    return second;
+    int climbStairs(int n) {
+      vector<int> dp(n+1,0);
+
+      return fun(n,dp);
+
     }
 };
