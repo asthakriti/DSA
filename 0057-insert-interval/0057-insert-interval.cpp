@@ -23,11 +23,10 @@ public:
             newInterval[0]=min(intervals[i][0],newInterval[0]);
             newInterval[1]=max(intervals[i][1],newInterval[1]);
 
-            
             i++;
         }
-
         ans.push_back({newInterval[0],newInterval[1]});
+
 
         while(i<intervals.size()){
             ans.push_back(intervals[i]);
