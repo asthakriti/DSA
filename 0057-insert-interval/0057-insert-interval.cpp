@@ -1,35 +1,44 @@
 class Solution {
 public:
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        
+       
+        vector<vector<int>>ans;
+
+
         int i=0;
-        int n=intervals.size();
 
-        vector<vector<int>> ans;
 
-        //phase 1: when element are not overlapping 
-        while(i<n && newInterval[0]>intervals[i][1]){
-            //old interval < new interval
+
+        while(i<intervals.size()&&intervals[i][1]<newInterval[0]){
+            //task finshed before the new task 
+            //grp1
             ans.push_back(intervals[i]);
             i++;
         }
 
-        //phase 2: when overlaping interval is found
-        while(i<n && newInterval[1]>=intervals[i][0]){
-            newInterval[0]=min(newInterval[0],intervals[i][0]);
-            newInterval[1]=max(newInterval[1],intervals[i][1]);
+        //task still going when new task came[4,8]
+        //merge it and make the task bigger
+        while(i<intervals.size()&&intervals[i][1]>=newInterval[0]
+            && intervals[i][0]<=newInterval[1]){
+            newInterval[0]=min(intervals[i][0],newInterval[0]);
+            newInterval[1]=max(intervals[i][1],newInterval[1]);
+
+            
             i++;
         }
 
         ans.push_back({newInterval[0],newInterval[1]});
 
-        //phase 3: if the remaining element is left even after the overlapping
-        while(i<n){
+        while(i<intervals.size()){
             ans.push_back(intervals[i]);
             i++;
         }
 
         return ans;
+
+
+
+
         
     }
 };
