@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/asthakriti/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/asthakriti/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/asthakriti/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/asthakriti/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/asthakriti/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asthakriti/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/asthakriti/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/asthakriti/DSA/tree/master/0079-word-search) |
 ## Greedy
 |  |
@@ -436,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/asthakriti/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
