@@ -1,25 +1,24 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
+      
+      //if i am going from left to right 
+      //through i 
+      //i will find max_farth i can go using all idx
       int jump=0;
-      int cur_end=0;
-      int farthest=0;
+      int max_far=0;
+      int cur_edge=0;
 
-      for(int i=0;i<nums.size()-1;i++){
-        //current idx ke jump se farthest kaha ja saktte hai 
-        farthest=max(farthest,i+nums[i]);
+    for(int i=0;i<nums.size()-1;i++){
+      max_far=max(max_far,i+nums[i]);
 
-        //if i reached the last edge: means jo pehle jump lene ke baad mai jaha aayi o idx ab aa gya hai kind of khai ab nhext jump ki need hai
-        if(i==cur_end){
-            //i need one more jump because i reached at the end of the edge
-            //edge means: the last point you can reach after the first jump
-            jump++;
-            
-            //now adding this jump you will have a new last edge
-            cur_end=farthest;
-        }
+      if(i==cur_edge){
+        //i need to take jump
+        jump++;
+        cur_edge=max_far;
       }
-
-      return jump;
     }
+    return jump;
+    }
+
 };
