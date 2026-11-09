@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/asthakriti/DSA/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/asthakriti/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/asthakriti/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/asthakriti/DSA/tree/master/0455-assign-cookies) |
 | [0560-subarray-sum-equals-k](https://github.com/asthakriti/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/asthakriti/DSA/tree/master/0695-max-area-of-island) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/asthakriti/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/asthakriti/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/asthakriti/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/asthakriti/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/asthakriti/DSA/tree/master/0905-sort-array-by-parity) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/asthakriti/DSA/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/asthakriti/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/asthakriti/DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/asthakriti/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/asthakriti/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
 ## Interactive
