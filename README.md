@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/asthakriti/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/asthakriti/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/asthakriti/DSA/tree/master/0647-palindromic-substrings) |
 | [0981-time-based-key-value-store](https://github.com/asthakriti/DSA/tree/master/0981-time-based-key-value-store) |
 ## Stack
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/asthakriti/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/asthakriti/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/asthakriti/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/asthakriti/DSA/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/asthakriti/DSA/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/asthakriti/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/asthakriti/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/asthakriti/DSA/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/asthakriti/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/asthakriti/DSA/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/asthakriti/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/asthakriti/DSA/tree/master/0881-boats-to-save-people) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asthakriti/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/asthakriti/DSA/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/asthakriti/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Queue
 |  |
