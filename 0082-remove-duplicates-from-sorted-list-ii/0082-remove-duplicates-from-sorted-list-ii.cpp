@@ -24,6 +24,7 @@ public:
                 }
 
                 pre->next=cur->next;
+
             }
 
             else{
