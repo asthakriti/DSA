@@ -12,45 +12,24 @@
 class Solution {
 public:
  
- void right(TreeNode* node,int level,vector<int> &ans){
-    if(node==NULL) return;
-
-    if(ans.size()==level){
-        ans.push_back(node->val);
-    }
-
-    right(node->right,level+1,ans);
-    right(node->left,level+1,ans);
- }
-    vector<int> rightSideView(TreeNode* root) {
-    //      vector<int> result;
-    // if (!root) return result;
-
-    // queue<TreeNode*> q;
-    // q.push(root);
-
-    // while (!q.empty()) {
-    //     int levelSize = q.size();
-    //     for (int i = 0; i < levelSize; i++) {
-    //         TreeNode* current = q.front();
-    //         q.pop();
-            
-    //         // Save the last node of each level
-    //         if (i == levelSize - 1) {
-    //             result.push_back(current->val);
-    //         }
-
-    //         if (current->left) q.push(current->left);
-    //         if (current->right) q.push(current->right);
-    //     }
-    // }
-
-    // return result;
-
-
+ vector<int> rightSideView(TreeNode* root) {
     vector<int> ans;
-    right(root,0,ans);
+    queue<TreeNode*> q;
+    if (root) q.push(root);
 
-    return ans;
+    while (!q.empty()) {
+        int size = q.size();
+        for (int i = 0; i < size; i++) {
+            TreeNode* node = q.front();
+            q.pop();
+
+            if (i == size - 1)            // last node of this level
+                ans.push_back(node->val);
+
+            if (node->left)  q.push(node->left);
+            if (node->right) q.push(node->right);
+        }
     }
+    return ans;
+}
 };
