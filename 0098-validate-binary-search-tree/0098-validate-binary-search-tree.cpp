@@ -12,18 +12,22 @@
 class Solution {
 public:
 
-   void inorder(TreeNode* node, vector<int>& v) {
-    if (!node) return;
-    inorder(node->left, v);
-    v.push_back(node->val);
-    inorder(node->right, v);
+bool check(TreeNode* node, long long lo, long long hl){
+
+    if(!node) return true;
+
+    if(node->val<=lo || node->val>=hl) return false;
+
+    bool left=check(node->left, lo, node->val);
+    bool right=check(node->right,node->val,hl);
+
+    return left&&right;
 }
 
+
+
 bool isValidBST(TreeNode* root) {
-    vector<int> v;
-    inorder(root, v);
-    for (int i = 1; i < v.size(); i++)
-        if (v[i] <= v[i - 1]) return false;   // must be strictly increasing
-    return true;
+    
+    return check(root,LLONG_MIN,LLONG_MAX);
 }
 };
