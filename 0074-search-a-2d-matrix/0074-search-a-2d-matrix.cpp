@@ -5,7 +5,9 @@ public:
         int m=matrix[0].size();
 
        int low=0;int high=n-1;
+
        while(low<=high){
+        
         int mid=low+(high-low)/2;
 
         if(matrix[mid][0]<=target && matrix[mid][m-1]>=target){
