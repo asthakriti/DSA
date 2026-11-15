@@ -6,54 +6,45 @@ using namespace std;
 class Solution {
 public:
 
-    long long fun(int num,vector<int>& piles){
-        int ans;
-        long long sum=0;
-        for(int i=0;i<piles.size();i++){
-            
+    long long calculate_hour(int k, vector<int>& piles){
 
-            if(piles[i]%num==0){
-                ans=piles[i]/num;
-            }
+        long long hour=0;
 
-            else if(piles[i]<num){
-                ans=1;
-            }
+        for(int pile=0;pile<piles.size();pile++){
 
-            else{
-                 ans = piles[i] / num + 1;
-            }
+            hour+=piles[pile]/k;
 
-            sum += ans;
+            if(piles[pile]%k != 0) hour++;
+
         }
 
-        return sum;
+        return hour;
     }
+    
+
+    
    
     int minEatingSpeed(vector<int>& piles, int h) {
-       int largest = *max_element(piles.begin(), piles.end())  ;
-       int r_ans;
+      
 
-       int low=1;int high=largest;
+      int low=1; int high= *max_element(piles.begin(),piles.end());
 
-       while(low<=high){
+      int ans=0;
+
+      while(low<=high){
+
         int mid=low+(high-low)/2;
 
-        long long ans=fun(mid,piles);
+        long long hours = calculate_hour(mid,piles);
 
-        if(ans>h){
-            low=mid+1;
-            
-        }
-
-        else{
+        if(h>=hours){
+            ans=mid;
             high=mid-1;
-            r_ans=mid;
         }
 
-        
-       }
-
-       return r_ans;
+        else low=mid+1;
+      }
+      return ans;
+      
     }
 };
